@@ -1,0 +1,1472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"session_",
+				"session_start\t(connect.php)"
+			],
+			[
+				"text",
+				"text-decoration\t(style.css)"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mysqli_",
+				"mysqli_query\t(functions.php)"
+			],
+			[
+				"mysqli_connect",
+				"mysqli_connect_error\t(connect.php)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"image",
+				"imageExtention"
+			],
+			[
+				"im",
+				"imageExt"
+			],
+			[
+				"tmp",
+				"tmp_image"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"DB",
+				"DB_NAME"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"block",
+				"block-center"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"social",
+				"social-icon\t(style.css)"
+			],
+			[
+				"Font",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"PATH",
+				"PATHIMG\t(config.core.php)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"inde",
+				"index-box\t(style.css)"
+			],
+			[
+				"s",
+				"senhat"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"box",
+				"box2"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "include/connect.php",
+			"settings":
+			{
+				"buffer_size": 329,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 769,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 1810,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4088,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "profile.php",
+			"settings":
+			{
+				"buffer_size": 480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logout.php",
+			"settings":
+			{
+				"buffer_size": 74,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "logout.php"
+			}
+		},
+		{
+			"file": "include/functions.php",
+			"settings":
+			{
+				"buffer_size": 684,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "functions.php"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 858,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "i",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nelsonparreira/Documents/MampWebsites/udemi/001-loginsystem",
+		"/Users/nelsonparreira/Documents/MampWebsites/udemi/001-loginsystem/css",
+		"/Users/nelsonparreira/Documents/MampWebsites/udemi/001-loginsystem/include"
+	],
+	"file_history":
+	[
+		"/Users/nelsonparreira/Documents/MampWebsites/udemi/001-loginsystem/index.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/udemi/001-loginsystem/css/style.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/udemi/001-loginsystem/include/connect.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/public_html/index.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/assets/css/style.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/public_html/resources/templates/navbar.temp.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/public_html/resources/templates/header.temp.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/public_html/resources/includes/config.inc.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Assets/Websites/creative-company/assets/css/custom.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/public_html/resources/templates/footer.temp.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/core/includes/header.inc.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/core/includes/navbar.inc.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Assets/freebie-bootstrap-footers/assets/css/Footer-with-button-logo.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Assets/freebie-bootstrap-footers/Footer-with-button-logo.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/core/config.core.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/assets/js/script.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/index.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/core/includes/footer.inc.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Assets/Websites/creative-company/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Assets/Websites/creative-company/assets/js/myscript.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/Public/assets/js/styles.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/001-Australian2017/.gitignore",
+		"/Users/nelsonparreira/Documents/MampWebsites/File-Structure-New-Website/.gitignore",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/pt/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/es/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/fr/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/pt/voucher.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/fr/voucher.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/voucher-order.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/voucher-term.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/pt/voucher-term.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/fr/voucher-term-fr.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/es/voucher-term.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/pt/voucher-order.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/fr/voucher-order.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/es/voucher-order.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/es/voucher-order-sended.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/fr/voucher-order-sended.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/pt/voucher-order-sended.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/voucher-order-sended.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/es/voucher.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/voucher.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/000-CODE/.gitignore",
+		"/Users/nelsonparreira/Downloads/bootstrap-4-dev/README.md",
+		"/Users/nelsonparreira/Downloads/styles.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/003-Projects/002 - contact-form/contact-form/contact.php",
+		"/Volumes/NO NAME/.bash_profile",
+		"/Users/nelsonparreira/Documents/MampWebsites/000-Training/109-BootStrap-PHP-Login/Aula-01/css/bootstrap.min.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/000-Training/109-BootStrap-PHP-Login/Aula-01/login.php",
+		"/Users/nelsonparreira/Documents/MampWebsites/000-Training/109-BootStrap-PHP-Login/Aula-01/css/signin.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/000-Training/109-BootStrap-PHP-Login/Aula-01/js/ie-emulation-modes-warning.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/000-Training/109-BootStrap-PHP-Login/Aula-01/js/ie10-viewport-bug-workaround.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/000-Training/109-BootStrap-PHP-Login/Aula-01/css/ie10-viewport-bug-workaround.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/JavascriptTraining/JavaScriptMaterials/changeButton1.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/contact_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/contact_form.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/find.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/history.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/map-belval.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/map-fuengirola.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/map-schmiede.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/products.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/terms.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/map-antigua.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/work.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/login.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/job_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/franchise.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/pt/contact.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/contact_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/map-fuengirola.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/contact_form.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/login.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/history.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/work.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/terms.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/products.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/find.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/map-schmiede.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/find.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/find.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/map-pommerloch.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/map-belval.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/map-antigua.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/job_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/franchise.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/fr/contact.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/working-on-it.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/work.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/contact_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/history.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/contact_form.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/terms.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/products.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/map-schmiede.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/map-pommerloch.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/map-fuengirola.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/map-belval.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/map-antigua.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/login.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/job_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/index.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/franchise.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/contact.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/contact_form.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/page_template.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/history.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/contact_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/contact.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/assets/js/mapsfreds.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/franchise.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/index-new.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/job_confirmation.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/map-antigua.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/map-belval.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/map-fuengirola.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/map-pommerloch.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/map-schmiede.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/products.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/terms.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/work.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/working-on-it.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/login.html",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/assets/js/fotorama.js",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/css/style.css",
+		"/Users/nelsonparreira/Documents/MampWebsites/FredsWebsite2016/Version 02/es/css/style.css"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "include/connect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										744,
+										745
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										469,
+										470
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								90
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "profile.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										477,
+										478
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										398,
+										399
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "logout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								44
+							]
+						],
+						"settings":
+						{
+							"auto_name": "logout.php",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"auto_name": "functions.php",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										683,
+										684
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										593,
+										594
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										651,
+										652
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										440,
+										441
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "loginsystem.sublime-project",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

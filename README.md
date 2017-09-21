@@ -1,6 +1,20 @@
 Based on the UDEMY course:
 https://www.udemy.com/login-and-registration-system-in-php-and-mysql-step-by-step/learn/v4/overview
 
+## Push this project
+
+…or create a new repository on the command line
+
+#echo "# loginSystem" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nelsonparreira/loginSystem.git
+git push -u origin master
+
+…or push an existing repository from the command line:
+git remote add origin https://github.com/nelsonparreira/loginSystem.git
+git push -u origin master
 
 
 ## Database

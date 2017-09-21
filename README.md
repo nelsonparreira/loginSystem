@@ -33,6 +33,7 @@ table: users
 	- email varchar 50 NOT NULL
 	- password varchar 255 NOT NULL
 	- image  test NOT NULL
+	- created text NOT NULL
 
 	. SQL code:
 	```

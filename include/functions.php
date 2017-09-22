@@ -26,7 +26,7 @@ function email_exists($email, $con){
  * @return [Boolean] [True if user logged in]
  */
 function logged_in() {
-	if (isset($_SESSION['email'])) 
+	if (isset($_SESSION['email']) || isset($_COOKIE['email']) ) 
 		{
 			return true;
 		}

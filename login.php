@@ -16,6 +16,8 @@
 		
 		$email = mysqli_real_escape_string($con,$_POST['email']);
 		$password = mysqli_real_escape_string($con,$_POST['password']);
+
+		$checkBox =  isset($_POST['keep']);
 	
 		$email = $_POST['email'];
 		$password = $_POST['password'];
@@ -33,8 +35,12 @@
 				}
 			else 
 				{
-					//log the user in
-					$_SESSION['email'] = $email;
+				$_SESSION['email'] = $email;
+
+					if ($checkBox =="on") {
+						setcookie("email", $email, time()+3600 );//1 hour
+					}
+
 					header('Location: profile.php');
 				}
 

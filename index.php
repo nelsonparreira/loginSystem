@@ -39,6 +39,10 @@
 				{
 					$error = "Not a valid email";
 				}
+			elseif ( email_exists($email, $con))
+				{
+					$error = "Someone already uses this email";
+				}
 			elseif ( strlen($password) < 8 ) 
 				{
 					$error = "Password must be great than 8 characteres";

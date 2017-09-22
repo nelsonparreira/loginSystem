@@ -6,6 +6,8 @@
 		{
 			echo "Your are IN";
 ?>
+
+<a href="changepwd.php">Change password</a>
 <!-- LOGOUT BUtton -->
 <a href="logout.php" style="float:right; 
 														padding: 10px; 

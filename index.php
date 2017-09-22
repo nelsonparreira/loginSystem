@@ -22,6 +22,8 @@
 		$tmp_image = $_FILES['image']['tmp_name'];
 		$tmp_size = $_FILES['image']['size'];
 
+		$conditions = isset($_POST['conditions']);
+		
 		$date = date("d, F, Y");
 		//test
 		//echo $firstName."<br />".$lastName."<br />".$email."<br />".$passwordConfirm."<br />".$image."<br />".$tmp_size;
@@ -39,9 +41,9 @@
 				{
 					$error = "Not a valid email";
 				}
-			elseif ( email_exists($email, $con))
+			elseif ( email_exists($email, $con) )
 				{
-					$error = "Someone already uses this email";
+					$error = "Someone already registered with this email";
 				}
 			elseif ( strlen($password) < 8 ) 
 				{
@@ -58,6 +60,10 @@
 			elseif ( $tmp_size  > ONE_MEGABYTE ) 
 				{
 					$error = "Image size must be less them 1 Megabyte";
+				}
+			elseif (!$conditions)
+				{
+					$error = "You must be agree with our terms and conditions.";
 				}
 			else 
 				{
@@ -149,9 +155,13 @@
 						<input type="text" name="fname" placeholder="First Name"><br><br>
 						<input type="text" name="lname" placeholder="Last Name"><br><br>
 						<input type="text" name="email" placeholder="email"><br><br>
-						<input type="password" name="password"><br><br>
-						<input type="password" name="passwordConfirm"><br><br>
+						<input type="password" name="password" placeholder="Password"><br><br>
+						<input type="password" name="passwordConfirm" placeholder="Re-enter password"><br><br>
 						<input type="file" name="image"><br><br>
+						
+						<input type="checkbox" name="conditions">
+						<label for="conditions">I am agree with terms and conditions</label><br><br>
+
 						<input type="submit" name="submit">
 			</form>
 		

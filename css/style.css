@@ -18,6 +18,17 @@ body {
 
 }
 
+.theButtons {
+	width: 222px;
+	height: 40px;
+	color: #FFF;
+	background-color: #335495;
+	border: 1px solid blue;
+	font-weight: bold;
+	font-family: tahoma;
+	border-radius: 4px;
+}
+
 #menu {
 	width: 790px;
 	margin: 0 auto;

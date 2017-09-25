@@ -29,7 +29,7 @@
 			$result = mysqli_query($con, "SELECT password FROM users WHERE email='$email'");
 			$retrievepassword = mysqli_fetch_assoc($result);
 
-			if ( md5($password) !== $retrievepassword['password']) 
+			if ( !password_verify($password, $retrievepassword['password']) ) 
 				{
 					$error ="Wrong password";
 				}

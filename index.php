@@ -68,7 +68,7 @@
 			else 
 				{
 					//ENCRIPT PASSWORD
-					$password = md5($password);
+					$password = password_hash($password; PASSWORD_DEFAULT);
 
 					// get the extention of an image
 					$imageExt = explode(".", $image);

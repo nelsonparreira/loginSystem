@@ -139,7 +139,15 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<div id="error" class="<?= ( (strstr($error, "success") )?'success':'error') ?>"><?= "<h3>".$error."</h3>" ?></div>
+	<div id="error" 
+
+		class="<?= ( (strstr($error, "success") )?'success':'error') ?>" 
+		style="display: <?= (($error !== "")?'block;':'')?>"
+	>
+		
+		<?= "<h3>".$error."</h3>" ?>
+		
+	</div>
 	
 	<div id="wrapper">
 
@@ -152,17 +160,17 @@
 			
 			<form action="index.php" method="POST" enctype="multipart/form-data">
 						
-						<input type="text" name="fname" placeholder="First Name"><br><br>
-						<input type="text" name="lname" placeholder="Last Name"><br><br>
-						<input type="text" name="email" placeholder="email"><br><br>
-						<input type="password" name="password" placeholder="Password"><br><br>
-						<input type="password" name="passwordConfirm" placeholder="Re-enter password"><br><br>
+						<input type="text" name="fname" placeholder="First Name" class="inputFields" required><br><br>
+						<input type="text" name="lname" placeholder="Last Name" class="inputFields" required><br><br>
+						<input type="text" name="email" placeholder="email" class="inputFields" required><br><br>
+						<input type="password" name="password" placeholder="Password" class="inputFields" required><br><br>
+						<input type="password" name="passwordConfirm" class="inputFields" placeholder="Re-enter password" required><br><br>
 						<input type="file" name="image"><br><br>
 						
 						<input type="checkbox" name="conditions">
 						<label for="conditions">I am agree with terms and conditions</label><br><br>
 
-						<input type="submit" name="submit">
+						<input type="submit" class="theButtons" name="submit">
 			</form>
 		
 		</div>

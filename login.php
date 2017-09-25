@@ -62,7 +62,10 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<div id="error" class="<?= ( (strstr($error, "Don") )?'error':'success') ?>"><?= "<h3>".$error."</h3>" ?></div>
+	<div id="error" 
+			 class="<?= ( (strstr($error, "Don") )?'error':'success') ?>"
+			 style="display: <?= (($error !== "")?'block;':'')?>"
+				><?= "<h3>".$error."</h3>" ?></div>
 	
 	<div id="wrapper">
 		
@@ -74,13 +77,13 @@
 		<div id="formDiv">
 			
 			<form action="login.php" method="POST" >
-						<input type="text" name="email" placeholder="Email"><br><br>
-						<input type="password" name="password"><br><br>
+						<input type="text" name="email" class="inputFields" placeholder="Email" required><br><br>
+						<input type="password" name="password" class="inputFields" required><br><br>
 						
 						<input type="checkbox" name="keep">
 						<label for="keep">Keep me logged in.</label>	<br />	<br />
 
-						<input type="submit" name="submit" value="login">
+						<input type="submit" class="theButtons" name="submit" value="login">
 						
 			</form>
 		

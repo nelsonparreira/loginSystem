@@ -5,6 +5,10 @@
 		if (logged_in()) 
 		{
 			echo "Your are IN";
+
+		if ($_SESSION['last_id'] !== $_SERVER['REMOTE_ADDR'] ) {
+				# code...
+			}	
 ?>
 
 <a href="changepwd.php">Change password</a>

@@ -22,7 +22,7 @@
 							}
 						else
 							{
-								$password = md5($password);
+								$password = password_hash($password);
 
 								$email = $_SESSION['email'];
 								if( mysqli_query($con, "UPDATE users SET password = '$password' WHERE email='$email'") )
